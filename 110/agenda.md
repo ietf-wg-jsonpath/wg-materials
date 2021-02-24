@@ -21,4 +21,7 @@ Area Director: Murray Kucherawy
 
 ## Discussion
 
+* On the future shape of the working group draft.
+  It’s a bit messy now, what’s our vision of what the IESG -00 looks like?
+
 ### AOB
